@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivani</h1>
 <h3 align="center">A passionate frontend developer .</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/JXA0.gif"></img>
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/JXA0.gif">
 
 - 🌱 I’m currently learning **Reactjs**
 
