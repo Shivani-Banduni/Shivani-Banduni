@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT**
 
-- 📫 How to reach me **shivanibanduni009@gmail.com**
+- 📫 How to reach me **https://shivani-banduni-portfolio.netlify.app**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BsY1litaZtya3axq67vRAoyEv5GgMDfc/view?usp=sharing](https://drive.google.com/file/d/1BsY1litaZtya3axq67vRAoyEv5GgMDfc/view?usp=sharing)
 
