@@ -7,7 +7,7 @@
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT**
 - 📫 How to reach me **https://shivani-banduni-portfolio.netlify.app**
 - Blog link-https://medium.com/@shivanibanduni009
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BsY1litaZtya3axq67vRAoyEv5GgMDfc/view?usp=sharing](https://drive.google.com/file/d/1BsY1litaZtya3axq67vRAoyEv5GgMDfc/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hX4UhR5rGzM0s_XTWhicNH3PMeiJptgM/view?usp=sharing](https://drive.google.com/file/d/1hX4UhR5rGzM0s_XTWhicNH3PMeiJptgM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
