@@ -4,11 +4,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=009shivani" alt="009shivani" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs**
-
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT**
-
 - 📫 How to reach me **https://shivani-banduni-portfolio.netlify.app**
-
+- Blog link-https://medium.com/@shivanibanduni009
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BsY1litaZtya3axq67vRAoyEv5GgMDfc/view?usp=sharing](https://drive.google.com/file/d/1BsY1litaZtya3axq67vRAoyEv5GgMDfc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
