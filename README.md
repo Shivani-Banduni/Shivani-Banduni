@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Reactjs**
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT**
-- 📫 How to reach me **https://shivani-banduni-portfolio.netlify.app**
+- 📫 How to reach me **https://cerulean-faun-7a9fc0.netlify.app**
 - Blog link-https://medium.com/@shivanibanduni009
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hX4UhR5rGzM0s_XTWhicNH3PMeiJptgM/view?usp=sharing](https://drive.google.com/file/d/1hX4UhR5rGzM0s_XTWhicNH3PMeiJptgM/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wZCihLu1Z5zjEYrCZozpK8RQJRjxj5UT/view?usp=sharing](https://drive.google.com/file/d/1wZCihLu1Z5zjEYrCZozpK8RQJRjxj5UT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
