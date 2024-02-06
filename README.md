@@ -3,8 +3,8 @@
 <img height="300px , align='center" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=009shivani" target="_blank" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs**
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT**
+- 🌱 Worked as a **Reactjs** developer.
+- 💬 Ask me about **HTML,CSS, JAVASCRIPT REACT JS**
 - 📫 How to reach me **https://cerulean-faun-7a9fc0.netlify.app**
 - Blog link-https://medium.com/@shivanibanduni009
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wZCihLu1Z5zjEYrCZozpK8RQJRjxj5UT/view?usp=sharing](https://drive.google.com/file/d/1wZCihLu1Z5zjEYrCZozpK8RQJRjxj5UT/view?usp=sharing)
